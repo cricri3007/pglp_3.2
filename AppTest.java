@@ -18,7 +18,8 @@ listEmploye.add(e);
 listEmploye.add(e2);
 listEmploye.add(v);
 listEmploye.add(v2);
-nt salaireTotal =0;
+listemploye.add(new Manager(20);
+int salaireTotal =0;
 for (int i=; i<listEmploye.size(); i++)
 {salaireTotal += listemploye.get(i).salaire();}
 System.out.println("salaire total:" + salaireTotal);
